@@ -1,0 +1,12 @@
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\bin\Release\netcoreapp3.1\DAL.deps.json
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\bin\Release\netcoreapp3.1\DAL.dll
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\bin\Release\netcoreapp3.1\DAL.pdb
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.dll
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.pdb
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\bin\Release\netcoreapp3.1\ModelsBaseData.dll
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\bin\Release\netcoreapp3.1\ModelsBaseData.pdb
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\DAL\obj\Release\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache

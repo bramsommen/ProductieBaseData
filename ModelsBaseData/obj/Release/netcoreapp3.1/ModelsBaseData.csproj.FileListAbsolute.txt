@@ -1,0 +1,9 @@
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\bin\Release\netcoreapp3.1\ModelsBaseData.deps.json
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\bin\Release\netcoreapp3.1\ModelsBaseData.dll
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\bin\Release\netcoreapp3.1\ModelsBaseData.pdb
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\obj\Release\netcoreapp3.1\ModelsBaseData.csprojAssemblyReference.cache
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\obj\Release\netcoreapp3.1\ModelsBaseData.AssemblyInfoInputs.cache
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\obj\Release\netcoreapp3.1\ModelsBaseData.AssemblyInfo.cs
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\obj\Release\netcoreapp3.1\ModelsBaseData.dll
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\obj\Release\netcoreapp3.1\ModelsBaseData.pdb
+C:\000_AAA_MyCoreProjects\productie-base-data-api\Production BaseData API\ModelsBaseData\obj\Release\netcoreapp3.1\ModelsBaseData.csproj.CoreCompileInputs.cache
